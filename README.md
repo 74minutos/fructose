@@ -15,4 +15,4 @@ I cleaned a little bit the document to my purposes and voilà. Now that he have 
   
   * [Fructose Malabsorption](https://en.wikipedia.org/wiki/Fructose_malabsorption)
 
-3. Of course, if you have fructose malabsorption for sure you know that all sugar is *no good*. For that reason I've created the third step, in which we can evalute the total sugars that the food is containing.
+3. Of course, if you have fructose malabsorption for sure you know that all sugars are *no good*. For that reason I've created the third step, in which we can evalute the total sugars that the food is containing.
