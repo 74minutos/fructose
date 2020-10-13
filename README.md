@@ -11,8 +11,8 @@ I cleaned a little bit the document to my purposes and voilà. Now that he have 
 1. Fructose amount. Of course, the main indicator that we always have to check is the total amount fo fructose. If the amount of one food is higher to 15, the box will appear as orange, saying that this is not recommedable for consumption. If not, we can continue in our journey.
 2. Fructose-glucose diff: There are tons of scientific evidence that glucose helps to absorb the excess of fructose, so I've created a "calculator" of that difference to have another variable to count on. If the total amount of this difference is below 2 it will be considered as valid for consumptio, but if the amount of fructose is very high it doesn't matter the glucose amount. Among many others, these are the main articles where you can find that evidence:
 
-  --[Intestinal fructose transport and malabsorption in humans](https://journals.physiology.org/doi/full/10.1152/ajpgi.00457.2010)
+  * [Intestinal fructose transport and malabsorption in humans](https://journals.physiology.org/doi/full/10.1152/ajpgi.00457.2010)
   
-  --[Fructose Malabsorption](https://en.wikipedia.org/wiki/Fructose_malabsorption)
+  * [Fructose Malabsorption](https://en.wikipedia.org/wiki/Fructose_malabsorption)
 
 3. Of course, if you have fructose malabsorption for sure you know that all sugar is *no good*. For that reason I've created the third step, in which we can evalute the total sugars that the food is containing.
